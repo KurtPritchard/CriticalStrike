@@ -1,0 +1,77 @@
+﻿img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-image: url('images/Space HD.bmp');
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+.tg {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+    .tg td {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        padding: 15px 20px;
+        border-style: solid;
+        border-width: 0px;
+        overflow: hidden;
+        word-break: normal;
+    }
+
+    .tg th {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        padding: 15px 20px;
+        border-style: solid;
+        border-width: 0px;
+        overflow: hidden;
+        word-break: normal;
+    }
+
+    .tg .tg-baqh {
+        text-align: center;
+        vertical-align: top
+    }
+
+    .tg .tg-yw4l {
+        text-align: center;
+        vertical-align: top
+    }
+#gameboy {
+    background-image: url(images/resizeplayer.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 669px;
+    margin: 0 auto 30px;
+    position: relative;
+}
+
+
+/*Mobile iframe CSS*/
+iframe {
+    height: 300px;
+    width: 325px;
+    position: absolute;
+    top: 125px;
+    left: 135px;
+}
+
+#ccFooterLogo {
+    text-align: center;
+}
