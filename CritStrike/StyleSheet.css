@@ -7,7 +7,7 @@ body {
     background-image: url('images/Space HD.bmp');
 }
 
-h1 {
+h1, h2 {
     color: white;
     text-align: center;
     
@@ -62,7 +62,15 @@ p {
     position: relative;
 }
 
+#content {
+	display: block;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	position: relative;
+	background-color: White;
+}
 
+	
 /*Mobile iframe CSS*/
 iframe {
     height: 300px;
